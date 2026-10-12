@@ -1,0 +1,10 @@
+{
+  "description": "Engage with a vibrant community of IT students at VPPCOEVA through a modern platform that fosters collaboration, innovation, and event participation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
